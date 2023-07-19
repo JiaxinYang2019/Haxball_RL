@@ -1,0 +1,4 @@
+/home/jiaxinyang/Group-2/Jiaxin_Yang/build/CMakeFiles/edit_cache.dir
+/home/jiaxinyang/Group-2/Jiaxin_Yang/build/CMakeFiles/rebuild_cache.dir
+/home/jiaxinyang/Group-2/Jiaxin_Yang/build/CMakeFiles/HaxBallAgentGroup-2.dir
+/home/jiaxinyang/Group-2/Jiaxin_Yang/build/CMakeFiles/HaxBallAgentGroup-2_autogen.dir

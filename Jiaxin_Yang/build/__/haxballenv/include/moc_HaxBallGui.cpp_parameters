@@ -1,0 +1,10 @@
+-I/home/jiaxinyang/Group-2/Jiaxin_Yang/../common/include
+-I/home/jiaxinyang/Group-2/Jiaxin_Yang/../haxballenv
+-I/home/jiaxinyang/Group-2/Jiaxin_Yang/../haxballenv/include
+-I/home/jiaxinyang/Group-2/Jiaxin_Yang/../haxballenv/include/Eigen
+-I/home/jiaxinyang/Group-2/Jiaxin_Yang/../Jiaxin_Yang/include
+-I/home/jiaxinyang/Group-2/Jiaxin_Yang
+-I/home/jiaxinyang/Group-2/Jiaxin_Yang/build
+-o
+/home/jiaxinyang/Group-2/Jiaxin_Yang/build/__/haxballenv/include/moc_HaxBallGui.cpp
+/home/jiaxinyang/Group-2/haxballenv/include/HaxBallGui.h
